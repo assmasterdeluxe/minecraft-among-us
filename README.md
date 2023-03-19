@@ -13,7 +13,46 @@
 - Choice of 11 different nametag colors.
 
 - Crewmates win by completing all 8 of the randomized Tasks OR killing all imposters.
-      - e.g., task could be: "Craft Diamond Block" or "Kill Creeper" etc.
+ 
+  - e.g., task could be: "Craft Diamond Block" or "Kill Creeper" etc.
+      
+    - There are 24 tasks:  (2 hard tasks, 6 easy tasks per game)
+      
+          + Easy Tasks:
+          
+              - Kill Spider.
+              - Kill Creeper.
+              - Kill Drowned.
+              
+              - Eat Spider Eye.
+              - Eat Suspicious Stew.
+              - Eat Pufferfish.
+              
+              - Craft Redstone Repeater.
+              - Craft TNT.
+              - Craft Clock.
+              
+              - Mine Gilded Blackstone.
+              - Mine Shroomlight.
+              - Mine Crying Obsidian.
+              
+              - Craft Netherbricks.
+              - Craft Polished Basalt.
+              - Craft Soul Campfire.
+              
+              - Kill Hoglin.
+              - Kill Piglin Brute.
+              - Kill Strider.
+            
+          + Hard Tasks:
+          
+              - Craft Anvil.
+              - Craft Diamond Block.
+              - Craft Enchanting Table.
+              
+              - Craft Netherite Ingot.
+              - Craft Enderchest.
+              - Craft Beacon.
 
 - Imposters win by killing all Crewmates.
 
