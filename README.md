@@ -6,6 +6,8 @@
 
 **Mechanics:**
 
+- All you need to do is run three commands and then you can go. <<<
+
 - Up to 10 players
 
 - Choice between having 1 or 2 randomly chosen imposters.
