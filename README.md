@@ -16,7 +16,7 @@
  
   - e.g., task could be: "Craft Diamond Block" or "Kill Creeper" etc.
       
-    - There are 24 tasks:  (2 hard tasks, 6 easy tasks per game)
+    - There are 24 tasks coded from which 8 are chosen:  (2 hard tasks, 6 easy tasks per game)
       
           + Easy Tasks:
           
