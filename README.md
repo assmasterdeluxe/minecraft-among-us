@@ -1,7 +1,7 @@
 **Commands to play Among Us in Minecraft Java Edition quickly and easily.**
 
 ```diff
-! THIS TAKES 20 SECONDS TO SET UP IN A REALM/SERVER (NO MODS/PLUGINS NEEDED, 1.16-1.18)
+! THIS TAKES 20 SECONDS TO SET UP IN A REALM/SERVER/LAN WORLD (NO MODS/PLUGINS NEEDED, 1.16-1.18)
 ```
 
 **Mechanics:**
