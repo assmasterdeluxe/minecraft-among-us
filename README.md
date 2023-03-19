@@ -1,5 +1,5 @@
 ```diff
-! THIS TAKES 20 SECONDS TO SET UP IN A REALM/SERVER (NO MODS/PLUGINS NEEDED)
+! THIS TAKES 20 SECONDS TO SET UP IN A REALM/SERVER (NO MODS/PLUGINS NEEDED, 1.16-1.18)
 ```
 
 **Mechanics:**
@@ -63,4 +63,4 @@ PART 3:
 
 https://pastebin.com/eiK6Ec5a
 
-(boys I haven't actually tested it on 1.16 but it might work with the execption of the lightning rod functionality not existing- if you want to play it on 1.16.1, just paste each part of the command onto a word doc and Cntrl+F the phrase "lightning_rod" and change every instance to any other item you want)
+(boys I haven't actually tested it on 1.16 but it it will work with the execption of the lightning rod functionality not existing- if you want to play it on 1.16.1, just paste each part of the command onto a word doc and Cntrl+F the phrase "lightning_rod" and change every instance to any other item you want)
