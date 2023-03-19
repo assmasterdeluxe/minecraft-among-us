@@ -23,15 +23,16 @@
 
 **Setup:**
 
-Load up a fresh/existing world. (ensure command blocks are turned on/are allowed)
-Place a command block anywhere in the world and attach a lever directly to the SIDE (not the top)
-Get all players to join the server
-Get the PART 1 command and paste it in the command block.
-Run the command with the lever. (Something special should happen if you have done it right)
-Get the PART 2 command and paste it in to the same command block.
-Run it.
-Get the PART 3 command and paste it in to the same command block.
-Run it.
++ Load up a fresh/existing world. (ensure command blocks are turned on/are allowed)
++ Place a command block anywhere in the world and attach a lever directly to the SIDE (not the top)
++ Get all players to join the server
++ Get the PART 1 command and paste it in the command block.
++ Run the command with the lever. (Something special should happen if you have done it right)
++ Get the PART 2 command and paste it in to the same command block.
++ Run it.
++ Get the PART 3 command and paste it in to the same command block.
++ Run it.
+
 === SET UP DONE ===
 
 The closest person to the command block when the last command is run will become the HOST. (Make sure it is you)
@@ -48,7 +49,7 @@ The host will receive a message in chat which will give them options to Start th
 
 Enjoy!
 
-
+(code archive links incase needed)
 
 PART 1:
 
