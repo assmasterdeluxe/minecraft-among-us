@@ -58,9 +58,23 @@
 
 - Imposters can use an ability every 15 minutes to set the nearest crewmate within 20 blocks to 1 heart and give them blindness for 15 seconds.
 
+    + A message will appear in chat for the imposters after 15 minutes with a button to click.
+    + Clicking the button will activate the ability and restart the cooldown timer.
+
 - Imposters know who each other are (and who has just been blinded by the other imposter)
 
 - Holding a lightning rod in your offhand will give everyone the glowing effect (to show colors through walls) this is balanced by giving the user Hunger V.
+
+    + Analogous to cameras/security in Among Us.
+    + 50 block radius.
+
+- Completing a task tells the entire lobby who completed it (Imposters can also complete tasks to 'clear themselves').
+
+    + Hover over the task in chat to see which task it was.
+    
+- Upon being killed, players are put in spectator mode at their place of death and they get a message telling them to mute their mic.
+
+- Player deaths show in chat, **BUT IT DOES NOT SAY WHAT KILLED THEM** ;)
 
 **Setup:**
 
