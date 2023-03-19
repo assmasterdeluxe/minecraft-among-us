@@ -78,6 +78,8 @@
 
 - Player deaths show in chat, **BUT IT DOES NOT SAY WHAT KILLED THEM** ;)
 
+- Essentially, players will all work together towards completing the hard tasks but eventually, imposters will sabotage the crewmates from completing them.
+
 **Setup:**
 
 + Load up a fresh/existing world. (ensure command blocks are turned on/are allowed)
